@@ -1,4 +1,4 @@
-The 160,000 Bin Packing Problem Instances provided in this repository were generated for the paper [Algorithm selection using deep learning without feature extraction](https://dl.acm.org/citation.cfm?id=3321707.3321845) presented at [GECCO 2019]( https://gecco-2019.sigevo.org/index.html/HomePage) 
+The 16,000 Bin Packing Problem Instances provided in this repository were generated for the paper [Algorithm selection using deep learning without feature extraction](https://dl.acm.org/citation.cfm?id=3321707.3321845) presented at [GECCO 2019]( https://gecco-2019.sigevo.org/index.html/HomePage) 
 
 
 
